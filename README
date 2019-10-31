@@ -1,0 +1,16 @@
+Network Visualization in R
+Oct. 31, 2019
+
+I use the packages:
+Igraph
+GGally
+Sna
+Intergraph
+
+Each one has dependencies, so make sure those are automatically downloaded. 
+
+This is a great tutorial and goes into a lot more things than I will: 
+https://www.rdocumentation.org/packages/base/versions/3.6.1/topics/sample
+
+The list of other layouts:
+https://www.rdocumentation.org/packages/sna/versions/2.4/topics/gplot.layout
