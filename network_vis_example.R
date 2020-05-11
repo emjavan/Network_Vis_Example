@@ -23,6 +23,9 @@ plot(example_graph)
 
 # gives you an estimate of which nodes are the most well-connected
 ec=eigen_centrality(example_graph)
+
+# does not like it
+ec2=eigen_centrality(example_adj_mat)
 ec[["vector"]]
 
 
